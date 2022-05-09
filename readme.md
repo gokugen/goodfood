@@ -6,30 +6,30 @@ Goodfood est une application qui a été devéloppée dans le cadre d'un projet 
 
 ### Authentification :
 <p float="left">
-  <img src="./pictures/1.png" width="100" />
-  <img src="./pictures/2.png" width="100" /> 
+  <img src="./pictures/1.png" width="300" />
+  <img src="./pictures/2.png" width="300" /> 
 </p>
 
 ### Présentation des restaurations :
 <p float="left">
-  <img src="./pictures/3.png" width="100" />
-  <img src="./pictures/4.png" width="100" />
+  <img src="./pictures/3.png" width="300" />
+  <img src="./pictures/4.png" width="300" />
 </p>
 
 ### Commande :
 <p float="left">
-  <img src="./pictures/5.png" width="100" />
-  <img src="./pictures/6.png" width="100" /> 
+  <img src="./pictures/5.png" width="300" />
+  <img src="./pictures/6.png" width="300" /> 
 </p>
 
 ### Panier :
 <p float="left">
-  <img src="./pictures/7.png" width="100" /> 
-  <img src="./pictures/8.png" width="100" />
-  <img src="./pictures/9.png" width="100" />
+  <img src="./pictures/7.png" width="300" /> 
+  <img src="./pictures/8.png" width="300" />
+  <img src="./pictures/9.png" width="300" />
 </p>
 
 ### Facture :
 <p float="left">
-  <img src="./pictures/10.png" width="100" /> 
+  <img src="./pictures/10.png" width="300" /> 
 </p>
